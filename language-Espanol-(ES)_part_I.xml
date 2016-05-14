@@ -61,45 +61,45 @@
   <phrase title="add_option" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Añadir opción]]></phrase>
   <phrase title="add_option_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Añadir grupo de opciones]]></phrase>
   <phrase title="add_poll" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Añadir Poll]]></phrase>
-  <phrase title="add_secondary_user_group" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Add secondary user group]]></phrase>
-  <phrase title="add_sibling" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Add Sibling]]></phrase>
-  <phrase title="add_to_selected_groups" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Add to selected groups]]></phrase>
-  <phrase title="add_user_to_user_groups" addon_id="XenForo" version_id="1040270" version_string="1.4.2"><![CDATA[Add User to User Groups]]></phrase>
+  <phrase title="add_secondary_user_group" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Añadir grupo de usuario secundario]]></phrase>
+  <phrase title="add_sibling" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Añadir hermano]]></phrase>
+  <phrase title="add_to_selected_groups" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Añadir a los grupos seleccionados]]></phrase>
+  <phrase title="add_user_to_user_groups" addon_id="XenForo" version_id="1040270" version_string="1.4.2"><![CDATA[Añadir usuario a grupos de usuario]]></phrase>
   <phrase title="added_to_selected_groups_while_above_points_threshold" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Added to selected groups while at or above points threshold]]></phrase>
-  <phrase title="additional_contact" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Additional Contact]]></phrase>
-  <phrase title="additional_user_groups" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Additional User Groups]]></phrase>
-  <phrase title="addon_is_active" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Add-on is active]]></phrase>
-  <phrase title="adjust_color_hues_for_entire_palette" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Adjust color hues for the entire palette.]]></phrase>
-  <phrase title="adjust_color_hues_for_this_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Adjust color hues for this group.]]></phrase>
-  <phrase title="admin_control_panel" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Admin Control Panel]]></phrase>
-  <phrase title="admin_control_panel_login" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Admin Control Panel Login]]></phrase>
-  <phrase title="admin_control_panel_route_prefixes" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Admin Control Panel Route Prefixes]]></phrase>
-  <phrase title="admin_control_panel_short" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Admin]]></phrase>
-  <phrase title="admin_cp" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Admin CP]]></phrase>
-  <phrase title="admin_log" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Admin Log]]></phrase>
-  <phrase title="admin_log_entry" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Admin Log Entry]]></phrase>
-  <phrase title="admin_navigation" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Admin Navigation]]></phrase>
-  <phrase title="admin_navigation_addOnDevelopment" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Add-on Development]]></phrase>
+  <phrase title="additional_contact" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Contacto adicional]]></phrase>
+  <phrase title="additional_user_groups" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Grupos de usuario adicionales]]></phrase>
+  <phrase title="addon_is_active" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Add-on está activo]]></phrase>
+  <phrase title="adjust_color_hues_for_entire_palette" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ajustar tonos de color para toda la gama de colores.]]></phrase>
+  <phrase title="adjust_color_hues_for_this_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ajustar tonos de color para este grupo.]]></phrase>
+  <phrase title="admin_control_panel" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Panel de administración]]></phrase>
+  <phrase title="admin_control_panel_login" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Login al panel de administracion]]></phrase>
+  <phrase title="admin_control_panel_route_prefixes" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Prefijos de ruta del panel de administración]]></phrase>
+  <phrase title="admin_control_panel_short" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Administrador]]></phrase>
+  <phrase title="admin_cp" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[PC de Administrador]]></phrase>
+  <phrase title="admin_log" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Log de Administrador]]></phrase>
+  <phrase title="admin_log_entry" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Entrada de registro del administrador]]></phrase>
+  <phrase title="admin_navigation" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Navegación del administrador]]></phrase>
+  <phrase title="admin_navigation_addOnDevelopment" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Desarrollo de Add-on]]></phrase>
   <phrase title="admin_navigation_addOns" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Add-ons]]></phrase>
-  <phrase title="admin_navigation_adminLog" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Admin Log]]></phrase>
-  <phrase title="admin_navigation_adminNavigation" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Admin Navigation]]></phrase>
-  <phrase title="admin_navigation_adminPermissions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Admin Permissions]]></phrase>
-  <phrase title="admin_navigation_adminStyleProperties" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Admin Style Properties]]></phrase>
-  <phrase title="admin_navigation_adminStyling" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Admin Styling]]></phrase>
-  <phrase title="admin_navigation_adminTemplateMods" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Admin Template Mods]]></phrase>
-  <phrase title="admin_navigation_adminTemplates" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Admin Templates]]></phrase>
-  <phrase title="admin_navigation_adminTemplatesSearch" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Search Admin Templates]]></phrase>
-  <phrase title="admin_navigation_admins" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Administrators]]></phrase>
-  <phrase title="admin_navigation_analyzePermissions" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Analyze Permissions]]></phrase>
-  <phrase title="admin_navigation_appearance" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Appearance]]></phrase>
-  <phrase title="admin_navigation_applications" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Applications]]></phrase>
-  <phrase title="admin_navigation_attachmentBrowser" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Attachment Browser]]></phrase>
-  <phrase title="admin_navigation_attachmentOptions" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Attachment Options]]></phrase>
-  <phrase title="admin_navigation_attachments" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Attachments]]></phrase>
-  <phrase title="admin_navigation_bannedEmails" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Banned Emails]]></phrase>
-  <phrase title="admin_navigation_bannedIps" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Banned IP Addresses]]></phrase>
-  <phrase title="admin_navigation_bannedUsers" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Banned Users]]></phrase>
-  <phrase title="admin_navigation_banning" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[User Discipline]]></phrase>
+  <phrase title="admin_navigation_adminLog" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Log del Administrador]]></phrase>
+  <phrase title="admin_navigation_adminNavigation" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Navegación del Administrador]]></phrase>
+  <phrase title="admin_navigation_adminPermissions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Permisos de Administrador]]></phrase>
+  <phrase title="admin_navigation_adminStyleProperties" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Propiedades de estilo del Administrador]]></phrase>
+  <phrase title="admin_navigation_adminStyling" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Estilos de la administración]]></phrase>
+  <phrase title="admin_navigation_adminTemplateMods" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Mods de la plantilla de la Administración]]></phrase>
+  <phrase title="admin_navigation_adminTemplates" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Plantillas de la administración]]></phrase>
+  <phrase title="admin_navigation_adminTemplatesSearch" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Plantillas de búsqueda en administración]]></phrase>
+  <phrase title="admin_navigation_admins" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Administradores]]></phrase>
+  <phrase title="admin_navigation_analyzePermissions" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Analizar permisos]]></phrase>
+  <phrase title="admin_navigation_appearance" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Apariencia]]></phrase>
+  <phrase title="admin_navigation_applications" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Aplicaciones]]></phrase>
+  <phrase title="admin_navigation_attachmentBrowser" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Navegador de archivo adjunto]]></phrase>
+  <phrase title="admin_navigation_attachmentOptions" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Opciones de archivo adjunto]]></phrase>
+  <phrase title="admin_navigation_attachments" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Archivos adjuntos]]></phrase>
+  <phrase title="admin_navigation_bannedEmails" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Correos electrónicos baneados]]></phrase>
+  <phrase title="admin_navigation_bannedIps" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Direcciones IP baneadas]]></phrase>
+  <phrase title="admin_navigation_bannedUsers" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Usuarios baneados]]></phrase>
+  <phrase title="admin_navigation_banning" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Disciplina del usuario]]></phrase>
   <phrase title="admin_navigation_batchUpdateThreads" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Batch Update Threads]]></phrase>
   <phrase title="admin_navigation_batchUpdateUsers" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Batch Update Users]]></phrase>
   <phrase title="admin_navigation_bbCodeAndSmilies" addon_id="XenForo" version_id="0" version_string=""><![CDATA[BB Code & Smilies]]></phrase>
