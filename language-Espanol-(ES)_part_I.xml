@@ -100,106 +100,104 @@
   <phrase title="admin_navigation_bannedIps" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Direcciones IP baneadas]]></phrase>
   <phrase title="admin_navigation_bannedUsers" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Usuarios baneados]]></phrase>
   <phrase title="admin_navigation_banning" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Disciplina del usuario]]></phrase>
-  <phrase title="admin_navigation_batchUpdateThreads" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Batch Update Threads]]></phrase>
-  <phrase title="admin_navigation_batchUpdateUsers" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Batch Update Users]]></phrase>
-  <phrase title="admin_navigation_bbCodeAndSmilies" addon_id="XenForo" version_id="0" version_string=""><![CDATA[BB Code & Smilies]]></phrase>
-  <phrase title="admin_navigation_bbCodeMediaSites" addon_id="XenForo" version_id="0" version_string=""><![CDATA[BB Code Media Sites]]></phrase>
+  <phrase title="admin_navigation_batchUpdateThreads" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Actualizar temas por lotes]]></phrase>
+  <phrase title="admin_navigation_batchUpdateUsers" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Actualizar usuarios por lotes]]></phrase>
+  <phrase title="admin_navigation_bbCodeAndSmilies" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Códigos BB y figuras emoticones]]></phrase>
+  <phrase title="admin_navigation_bbCodeMediaSites" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Código BB medios - Sitios]]></phrase>
   <phrase title="admin_navigation_captcha" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[CAPTCHA]]></phrase>
-  <phrase title="admin_navigation_captchaQuestion" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Question and Answer]]></phrase>
-  <phrase title="admin_navigation_codeEventListeners" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Code Event Listeners]]></phrase>
-  <phrase title="admin_navigation_codeEvents" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Code Events]]></phrase>
-  <phrase title="admin_navigation_codeEventsAndListeners" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Code Events & Listeners]]></phrase>
-  <phrase title="admin_navigation_color" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Color Palette]]></phrase>
-  <phrase title="admin_navigation_createAddOn" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Create Add-on]]></phrase>
-  <phrase title="admin_navigation_createCategory" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Create New Category]]></phrase>
-  <phrase title="admin_navigation_createForum" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Create New Forum]]></phrase>
-  <phrase title="admin_navigation_createNewLink" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Create New Link Forum]]></phrase>
-  <phrase title="admin_navigation_createNewUser" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Create New User]]></phrase>
-  <phrase title="admin_navigation_createPage" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Create New Page]]></phrase>
-  <phrase title="admin_navigation_cronEntries" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Cron Entries]]></phrase>
-  <phrase title="admin_navigation_customBbCodes" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Custom BB Codes]]></phrase>
-  <phrase title="admin_navigation_customizedStyleComponents" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Customized Components]]></phrase>
-  <phrase title="admin_navigation_devInstallAddOn" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Install Add-on]]></phrase>
-  <phrase title="admin_navigation_devListAddOns" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[List Add-ons]]></phrase>
-  <phrase title="admin_navigation_development" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Development]]></phrase>
-  <phrase title="admin_navigation_diagnostics" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Diagnostics]]></phrase>
-  <phrase title="admin_navigation_discouragedIps" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Discouraged IP Addresses]]></phrase>
-  <phrase title="admin_navigation_emailBouncesLog" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Email Bounce Log]]></phrase>
-  <phrase title="admin_navigation_emailTemplateMods" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Email Template Mods]]></phrase>
-  <phrase title="admin_navigation_emailTemplates" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Email Templates]]></phrase>
-  <phrase title="admin_navigation_emailTemplatesLink" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Email Templates]]></phrase>
-  <phrase title="admin_navigation_emailUsers" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Email Users]]></phrase>
+  <phrase title="admin_navigation_captchaQuestion" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Pregunta y respuesta]]></phrase>
+  <phrase title="admin_navigation_codeEventListeners" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Interlocutores de evento de código]]></phrase>
+  <phrase title="admin_navigation_codeEvents" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Eventos de código]]></phrase>
+  <phrase title="admin_navigation_codeEventsAndListeners" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Eventos de código e interlocutores]]></phrase>
+  <phrase title="admin_navigation_color" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Paleta de color]]></phrase>
+  <phrase title="admin_navigation_createAddOn" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Crear Add-on (Complemento)]]></phrase>
+  <phrase title="admin_navigation_createCategory" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Crear nueva categoría]]></phrase>
+  <phrase title="admin_navigation_createForum" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Crear nuevo foro]]></phrase>
+  <phrase title="admin_navigation_createNewLink" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Crear nuevo foro de enlace]]></phrase>
+  <phrase title="admin_navigation_createNewUser" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Crear nuevo usuario]]></phrase>
+  <phrase title="admin_navigation_createPage" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Crear nueva página]]></phrase>
+  <phrase title="admin_navigation_cronEntries" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Tareas programadas (Cron)]]></phrase>
+  <phrase title="admin_navigation_customBbCodes" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Códigos BB Personalizados]]></phrase>
+  <phrase title="admin_navigation_customizedStyleComponents" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Componentes personalizados]]></phrase>
+  <phrase title="admin_navigation_devInstallAddOn" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Instalar complemento (Add-on)]]></phrase>
+  <phrase title="admin_navigation_devListAddOns" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Lista de complementos (Add-ons)]]></phrase>
+  <phrase title="admin_navigation_development" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Desarrollo]]></phrase>
+  <phrase title="admin_navigation_diagnostics" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Diagnósticos]]></phrase>
+  <phrase title="admin_navigation_discouragedIps" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Direcciones IP desalentadas]]></phrase>
+  <phrase title="admin_navigation_emailBouncesLog" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Registro de rebote de correo]]></phrase>
+  <phrase title="admin_navigation_emailTemplateMods" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Modificaciones de plantilla de correo electrónico]]></phrase>
+  <phrase title="admin_navigation_emailTemplates" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Plantillas de correo electrónico]]></phrase>
+  <phrase title="admin_navigation_emailTemplatesLink" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Plantillas de correo electrónico]]></phrase>
+  <phrase title="admin_navigation_emailUsers" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Enviar correo electrónico a usuarios]]></phrase>
   <phrase title="admin_navigation_feeder" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Feeder]]></phrase>
-  <phrase title="admin_navigation_feedlist" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Registered Feeds]]></phrase>
-  <phrase title="admin_navigation_fileCheck" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[File Health Check]]></phrase>
-  <phrase title="admin_navigation_helpPages" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Help Pages]]></phrase>
-  <phrase title="admin_navigation_id" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Admin Navigation ID]]></phrase>
-  <phrase title="admin_navigation_ids_must_be_unique" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Admin navigation IDs must be unique. The specified ID is already in use.]]></phrase>
-  <phrase title="admin_navigation_image_proxy_log" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Image Proxy Log]]></phrase>
-  <phrase title="admin_navigation_import" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Import]]></phrase>
-  <phrase title="admin_navigation_importExternalData" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Import External Data]]></phrase>
-  <phrase title="admin_navigation_importLanguage" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Import a Language]]></phrase>
-  <phrase title="admin_navigation_importStyle" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Import a Style]]></phrase>
-  <phrase title="admin_navigation_installAddOn" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Install Add-on]]></phrase>
-  <phrase title="admin_navigation_languages" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Languages]]></phrase>
-  <phrase title="admin_navigation_languagesAndPhrases" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Languages & Phrases]]></phrase>
-  <phrase title="admin_navigation_link_proxy_log" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Link Proxy Log]]></phrase>
-  <phrase title="admin_navigation_listActiveUpgrades" addon_id="XenForo" version_id="0" version_string=""><![CDATA[List Active Upgrades]]></phrase>
-  <phrase title="admin_navigation_listAddOns" addon_id="XenForo" version_id="0" version_string=""><![CDATA[List Add-ons]]></phrase>
-  <phrase title="admin_navigation_listAllUsers" addon_id="XenForo" version_id="0" version_string=""><![CDATA[List All Users]]></phrase>
-  <phrase title="admin_navigation_listExpiredUpgrades" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[List Expired Upgrades]]></phrase>
-  <phrase title="admin_navigation_listNodes" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Display Node Tree]]></phrase>
-  <phrase title="admin_navigation_listUserGroups" addon_id="XenForo" version_id="0" version_string=""><![CDATA[List User Groups]]></phrase>
-  <phrase title="admin_navigation_listUserUpgrades" addon_id="XenForo" version_id="0" version_string=""><![CDATA[List User Upgrades]]></phrase>
-  <phrase title="admin_navigation_logs" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Logs]]></phrase>
-  <phrase title="admin_navigation_moderatorLog" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Moderator Log]]></phrase>
-  <phrase title="admin_navigation_moderators" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Moderators]]></phrase>
-  <phrase title="admin_navigation_monthlyStatistics" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Monthly Statistics]]></phrase>
-  <phrase title="admin_navigation_navigation" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Navigation]]></phrase>
-  <phrase title="admin_navigation_nodePermissions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Node Permissions]]></phrase>
-  <phrase title="admin_navigation_nodeTree" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Node Tree]]></phrase>
-  <phrase title="admin_navigation_nodesAsTabsOptions" addon_id="NodesAsTabs" version_id="101030" version_string="1.1.3"><![CDATA[Nodes As Tabs]]></phrase>
-  <phrase title="admin_navigation_notices" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Notices]]></phrase>
-  <phrase title="admin_navigation_noticesList" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[List Notices]]></phrase>
-  <phrase title="admin_navigation_options" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Options / Setup]]></phrase>
-  <phrase title="admin_navigation_optionsLink" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Options]]></phrase>
-  <phrase title="admin_navigation_outdatedPhrases" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Outdated Phrases]]></phrase>
-  <phrase title="admin_navigation_outdatedTemplates" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Outdated Templates]]></phrase>
-  <phrase title="admin_navigation_permissionDefinitions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Permission Definitions]]></phrase>
-  <phrase title="admin_navigation_permissions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Permissions]]></phrase>
-  <phrase title="admin_navigation_permissionsDevelopment" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Permissions]]></phrase>
-  <phrase title="admin_navigation_phrases" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Phrases]]></phrase>
-  <phrase title="admin_navigation_rebuildCaches" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Rebuild Caches]]></phrase>
-  <phrase title="admin_navigation_rotating_ads" addon_id="rotating_ads" version_id="1" version_string="0.9"><![CDATA[Rotating Ads]]></phrase>
-  <phrase title="admin_navigation_routeFilters" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Route Filters]]></phrase>
-  <phrase title="admin_navigation_routePrefixes" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Route Prefixes]]></phrase>
-  <phrase title="admin_navigation_searchForUsers" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Search for Users]]></phrase>
-  <phrase title="admin_navigation_searchPhrases" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Search Phrases]]></phrase>
-  <phrase title="admin_navigation_searchTemplates" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Search Templates]]></phrase>
-  <phrase title="admin_navigation_serverErrorLog" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Server Error Log]]></phrase>
-  <phrase title="admin_navigation_setup" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Home]]></phrase>
-  <phrase title="admin_navigation_sitemapLog" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Sitemap Log]]></phrase>
-  <phrase title="admin_navigation_smilies" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Smilies]]></phrase>
-  <phrase title="admin_navigation_spamCleaner" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Spam Cleaner Log]]></phrase>
+  <phrase title="admin_navigation_feedlist" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Feeds registrados]]></phrase>
+  <phrase title="admin_navigation_fileCheck" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Chequeo de archivo]]></phrase>
+  <phrase title="admin_navigation_helpPages" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Páginas de ayuda]]></phrase>
+  <phrase title="admin_navigation_id" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[ID de navegación del Administrador]]></phrase>
+  <phrase title="admin_navigation_ids_must_be_unique" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Los IDs de navegación del Administrador deben ser únicos. El ID especificado está en uso.]]></phrase>
+  <phrase title="admin_navigation_image_proxy_log" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Registro del proxy de imagen]]></phrase>
+  <phrase title="admin_navigation_import" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Importar]]></phrase>
+  <phrase title="admin_navigation_importExternalData" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Importar datos externos]]></phrase>
+  <phrase title="admin_navigation_importLanguage" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Importar un idioma]]></phrase>
+  <phrase title="admin_navigation_importStyle" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Importar un estilo]]></phrase>
+  <phrase title="admin_navigation_installAddOn" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Instalar complemento (Add-on)]]></phrase>
+  <phrase title="admin_navigation_languages" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Idimoas]]></phrase>
+  <phrase title="admin_navigation_languagesAndPhrases" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Idiomas y frases]]></phrase>
+  <phrase title="admin_navigation_link_proxy_log" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Registro de proxy de enlace]]></phrase>
+  <phrase title="admin_navigation_listActiveUpgrades" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Listado de actualizaciones activas]]></phrase>
+  <phrase title="admin_navigation_listAddOns" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Lista de complementos (Add-ons)]]></phrase>
+  <phrase title="admin_navigation_listAllUsers" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Lista de todos los usuarios]]></phrase>
+  <phrase title="admin_navigation_listExpiredUpgrades" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Listado de actualizaciones caducadas]]></phrase>
+  <phrase title="admin_navigation_listNodes" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Mostrar árbol de nodos]]></phrase>
+  <phrase title="admin_navigation_listUserGroups" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Listado de grupos de usuario]]></phrase>
+  <phrase title="admin_navigation_listUserUpgrades" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Listado de actualizaciones de usuario]]></phrase>
+  <phrase title="admin_navigation_logs" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Registros]]></phrase>
+  <phrase title="admin_navigation_moderatorLog" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Registro del Moderador]]></phrase>
+  <phrase title="admin_navigation_moderators" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Moderadores]]></phrase>
+  <phrase title="admin_navigation_monthlyStatistics" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Estadísticas mensuales]]></phrase>
+  <phrase title="admin_navigation_navigation" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Navegación]]></phrase>
+  <phrase title="admin_navigation_nodePermissions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Permisos de nodo]]></phrase>
+  <phrase title="admin_navigation_nodeTree" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Árbol de nodos]]></phrase>
+  <phrase title="admin_navigation_notices" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Avisos]]></phrase>
+  <phrase title="admin_navigation_noticesList" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Listado de avisos]]></phrase>
+  <phrase title="admin_navigation_options" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Opciones / Instalación]]></phrase>
+  <phrase title="admin_navigation_optionsLink" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Opciones]]></phrase>
+  <phrase title="admin_navigation_outdatedPhrases" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Frases obsoletas]]></phrase>
+  <phrase title="admin_navigation_outdatedTemplates" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Plantillas obsoletas]]></phrase>
+  <phrase title="admin_navigation_permissionDefinitions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Definiciones de permisos]]></phrase>
+  <phrase title="admin_navigation_permissions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Permisos]]></phrase>
+  <phrase title="admin_navigation_permissionsDevelopment" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Permisos]]></phrase>
+  <phrase title="admin_navigation_phrases" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Frases]]></phrase>
+  <phrase title="admin_navigation_rebuildCaches" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Reconstruir cachés]]></phrase>
+  <phrase title="admin_navigation_routeFilters" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Filtros de ruta]]></phrase>
+  <phrase title="admin_navigation_routePrefixes" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Prefijos de ruta]]></phrase>
+  <phrase title="admin_navigation_searchForUsers" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Búsqueda de usuarios]]></phrase>
+  <phrase title="admin_navigation_searchPhrases" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Fraces de búsqueda]]></phrase>
+  <phrase title="admin_navigation_searchTemplates" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Plantillas de búsqueda]]></phrase>
+  <phrase title="admin_navigation_serverErrorLog" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Registros de errores del servidor]]></phrase>
+  <phrase title="admin_navigation_setup" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Inicio]]></phrase>
+  <phrase title="admin_navigation_sitemapLog" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Registro de mapa del sitio]]></phrase>
+  <phrase title="admin_navigation_smilies" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Emoticones]]></phrase>
+  <phrase title="admin_navigation_spamCleaner" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Registro de limpieza de correo no deseado]]></phrase>
   <phrase title="admin_navigation_spamTriggerLogs" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Spam Trigger Log]]></phrase>
-  <phrase title="admin_navigation_stats" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Statistics]]></phrase>
-  <phrase title="admin_navigation_statsDaily" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Daily Statistics]]></phrase>
-  <phrase title="admin_navigation_styleProperties" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Style Properties]]></phrase>
-  <phrase title="admin_navigation_styles" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Styles]]></phrase>
-  <phrase title="admin_navigation_stylesAndTemplates" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Styles & Templates]]></phrase>
-  <phrase title="admin_navigation_templateModifications" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Template Modifications]]></phrase>
-  <phrase title="admin_navigation_templates" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Templates]]></phrase>
-  <phrase title="admin_navigation_testFacebook" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Test Facebook Integration]]></phrase>
-  <phrase title="admin_navigation_testImageProxy" addon_id="XenForo" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[Test Image Proxy]]></phrase>
-  <phrase title="admin_navigation_testPermissions" addon_id="XenForo" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[Test Permissions]]></phrase>
-  <phrase title="admin_navigation_testTwitter" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[Test Twitter Integration]]></phrase>
-  <phrase title="admin_navigation_threadPrefixes" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Thread Prefixes]]></phrase>
-  <phrase title="admin_navigation_threadReplyBans" addon_id="XenForo" version_id="1040033" version_string="1.4.0 Beta 3"><![CDATA[Thread Reply Bans]]></phrase>
-  <phrase title="admin_navigation_threadsPosts" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Threads & Posts]]></phrase>
-  <phrase title="admin_navigation_tools" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Tools]]></phrase>
-  <phrase title="admin_navigation_toolsGroups" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Tools]]></phrase>
-  <phrase title="admin_navigation_trophies" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Trophies]]></phrase>
-  <phrase title="admin_navigation_userChangeLogs" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[User Change Log]]></phrase>
+  <phrase title="admin_navigation_stats" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Estadísticas]]></phrase>
+  <phrase title="admin_navigation_statsDaily" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Estadísticas diarias]]></phrase>
+  <phrase title="admin_navigation_styleProperties" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Propiedades de estilo]]></phrase>
+  <phrase title="admin_navigation_styles" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Estilos]]></phrase>
+  <phrase title="admin_navigation_stylesAndTemplates" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Estilos y plantillas]]></phrase>
+  <phrase title="admin_navigation_templateModifications" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Modificaciones de plantilla]]></phrase>
+  <phrase title="admin_navigation_templates" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Plantillas]]></phrase>
+  <phrase title="admin_navigation_testFacebook" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Test de integración con Facebook]]></phrase>
+  <phrase title="admin_navigation_testImageProxy" addon_id="XenForo" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[Test de proxy de imagen]]></phrase>
+  <phrase title="admin_navigation_testPermissions" addon_id="XenForo" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[Test de permisos]]></phrase>
+  <phrase title="admin_navigation_testTwitter" addon_id="XenForo" version_id="1030170" version_string="1.3.1"><![CDATA[Test de integración con Twitter]]></phrase>
+  <phrase title="admin_navigation_threadPrefixes" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Prefijos de tema]]></phrase>
+  <phrase title="admin_navigation_threadReplyBans" addon_id="XenForo" version_id="1040033" version_string="1.4.0 Beta 3"><![CDATA[Respuestas prohibidas de tema]]></phrase>
+  <phrase title="admin_navigation_threadsPosts" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Temas y mensajes]]></phrase>
+  <phrase title="admin_navigation_tools" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Herramientas]]></phrase>
+  <phrase title="admin_navigation_toolsGroups" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Herramientas]]></phrase>
+  <phrase title="admin_navigation_trophies" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Trofeos]]></phrase>
+  <phrase title="admin_navigation_userChangeLogs" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Registro de cambios de usuario]]></phrase>
   <phrase title="admin_navigation_userCustomization" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[User Customization]]></phrase>
   <phrase title="admin_navigation_userFields" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Custom User Fields]]></phrase>
   <phrase title="admin_navigation_userGroupPermissions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[User Group Permissions]]></phrase>
