@@ -298,106 +298,106 @@
   <phrase title="always" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Siempre]]></phrase>
   <phrase title="analyze" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Analizar]]></phrase>
   <phrase title="analyze_permissions" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Análisis de permisos]]></phrase>
-  <phrase title="analyze_permissions_description" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[This tool allows you to analyze the individual components that make up a permission set for a user. It is particularly useful for determining why a permission is not being applied as you expect.]]></phrase>
-  <phrase title="and_receive_email_notifications" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[and receive email notifications]]></phrase>
-  <phrase title="and_receive_email_notifications_of_replies" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[and receive email notifications of replies]]></phrase>
-  <phrase title="and_x_more" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[and {count} more]]></phrase>
-  <phrase title="answer" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Answer]]></phrase>
-  <phrase title="any" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Any]]></phrase>
-  <phrase title="any_forum" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Any Forum]]></phrase>
-  <phrase title="api_key" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[API Key]]></phrase>
-  <phrase title="appearance" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Appearance]]></phrase>
-  <phrase title="applicable_forums" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Applicable Forums]]></phrase>
-  <phrase title="application_date" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Application Date]]></phrase>
-  <phrase title="applications" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Applications]]></phrase>
-  <phrase title="applied_by" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Applied By]]></phrase>
-  <phrase title="apply" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Apply]]></phrase>
-  <phrase title="apply_count" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Apply Count]]></phrase>
-  <phrase title="apply_display_styling_options" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Apply display styling options]]></phrase>
-  <phrase title="apply_forum_options" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Apply forum options]]></phrase>
-  <phrase title="apply_options_to_these_prefixes" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Apply options to these prefixes]]></phrase>
-  <phrase title="apply_prefix_to_selected_threads" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Apply prefix to selected threads]]></phrase>
-  <phrase title="apply_this_promotion_while" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Apply This Promotion While...]]></phrase>
-  <phrase title="apply_thread_prefix" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Apply Thread Prefix]]></phrase>
-  <phrase title="apply_thread_prefix_group_options" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Apply thread prefix group options]]></phrase>
-  <phrase title="apply_thread_prefix_to_multiple_forums" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[The threads you have selected are located in more than one forum.<br />
+  <phrase title="analyze_permissions_description" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Esta herramiente le permite analizar los componentes individuales que forman un conjunto de permisos para un usuario. Esto es muy útil cuando un permiso no se está aplicando como se esperaba.]]></phrase>
+  <phrase title="and_receive_email_notifications" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[y recibir notificaciones por correo electrónico]]></phrase>
+  <phrase title="and_receive_email_notifications_of_replies" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[y recibir notificaciones por correo electrónico de respuestas]]></phrase>
+  <phrase title="and_x_more" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[y {count} más]]></phrase>
+  <phrase title="answer" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Respuesta]]></phrase>
+  <phrase title="any" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Cualquier]]></phrase>
+  <phrase title="any_forum" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cualquier foro]]></phrase>
+  <phrase title="api_key" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Llave de la API]]></phrase>
+  <phrase title="appearance" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Apariencia]]></phrase>
+  <phrase title="applicable_forums" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Foros aplicables]]></phrase>
+  <phrase title="application_date" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Fecha de aplicación]]></phrase>
+  <phrase title="applications" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Aplicaciones]]></phrase>
+  <phrase title="applied_by" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Aplicado por]]></phrase>
+  <phrase title="apply" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Aplicar]]></phrase>
+  <phrase title="apply_count" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Aplicar conteo]]></phrase>
+  <phrase title="apply_display_styling_options" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Aplicar las opciones de visualización de estilo]]></phrase>
+  <phrase title="apply_forum_options" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Aplicar opciones de foro]]></phrase>
+  <phrase title="apply_options_to_these_prefixes" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Aplicar opciones para estos prefijos]]></phrase>
+  <phrase title="apply_prefix_to_selected_threads" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Aplicar prefijos para los temas seleccionados]]></phrase>
+  <phrase title="apply_this_promotion_while" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Aplicación de esta promoción mientras...]]></phrase>
+  <phrase title="apply_thread_prefix" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Aplicar prefijo de tema]]></phrase>
+  <phrase title="apply_thread_prefix_group_options" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Aplicar prefijos de tema en las opciones de grupo]]></phrase>
+  <phrase title="apply_thread_prefix_to_multiple_forums" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Los temas que ha seleccionado se encuentran en más de un foro.<br />
 <br />
-In the event that some of the selected threads are not eligible to have the selected prefix applied, they will not be altered, and will remain selected.]]></phrase>
-  <phrase title="apply_user_group_options" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Apply user group options]]></phrase>
-  <phrase title="apply_warning_points" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Apply warning points]]></phrase>
-  <phrase title="approve" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Approve]]></phrase>
-  <phrase title="approve_posts" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Approve Posts]]></phrase>
-  <phrase title="approve_threads" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Approve Threads]]></phrase>
-  <phrase title="approved_sites" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Approved sites]]></phrase>
-  <phrase title="archive_import_log" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Archive the import log table?]]></phrase>
-  <phrase title="archive_import_log_explain" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[You may archive the import log to a new database table by specifying a unique name here. For full details see this help article: <a href="http://xenforo.com/help/import-redirection/" target="_blank">Import Redirection</a>.]]></phrase>
-  <phrase title="archive_the_import_log" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Archive the import log to this new table]]></phrase>
-  <phrase title="are_you_sure_you_want_to_complete_this_import_cant_resume" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Are you sure you want to complete this import? If you do this, you will not be able to resume the import from the current point.]]></phrase>
-  <phrase title="argument_must_be_string" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Argument must be a string]]></phrase>
-  <phrase title="array" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Array]]></phrase>
-  <phrase title="array_sub_options" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Array Sub-Options]]></phrase>
-  <phrase title="ascending" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ascending]]></phrase>
-  <phrase title="ascending_order" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Ascending order]]></phrase>
-  <phrase title="assigned" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Assigned]]></phrase>
-  <phrase title="assigned_to" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Assigned to]]></phrase>
-  <phrase title="associate_account" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Associate Account]]></phrase>
-  <phrase title="associate_existing_account" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Associate Existing Account]]></phrase>
-  <phrase title="associate_with" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Associate with]]></phrase>
-  <phrase title="associate_with_facebook" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Associate with Facebook]]></phrase>
-  <phrase title="associate_with_google" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Associate with Google]]></phrase>
-  <phrase title="associate_with_twitter" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Associate with Twitter]]></phrase>
-  <phrase title="associated_facebook_account" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Associated Facebook Account]]></phrase>
-  <phrase title="associated_google_account" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Associated Google Account]]></phrase>
-  <phrase title="associated_twitter_account" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Associated Twitter Account]]></phrase>
-  <phrase title="attach_child_nodes_to_another_parent" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Attach child nodes to another parent]]></phrase>
-  <phrase title="attached_files" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Attached Files]]></phrase>
-  <phrase title="attaches_file_to_watched_thread" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Attaches a file to a watched thread]]></phrase>
-  <phrase title="attachment_browser" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Attachment Browser]]></phrase>
-  <phrase title="attachment_browser_largest_files" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Largest Files]]></phrase>
-  <phrase title="attachment_browser_most_recently_uploaded" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Most Recently Uploaded]]></phrase>
-  <phrase title="attachment_cannot_be_shown_at_this_time" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This attachment cannot be shown at this time. Please try back later.]]></phrase>
-  <phrase title="attachment_could_not_be_read_by_server" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The attachment could not be read by the server. Please try again later.]]></phrase>
-  <phrase title="attachment_disk_usage" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Attachment Disk Usage (MB)]]></phrase>
-  <phrase title="attachment_path" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[Attachment Path]]></phrase>
-  <phrase title="attachment_thumbnails" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Attachment Thumbnails]]></phrase>
-  <phrase title="attachments" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Attachments]]></phrase>
-  <phrase title="attachments_directory" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Attachments Directory]]></phrase>
-  <phrase title="attachments_directory_not_found" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The attachments directory could not be found.]]></phrase>
-  <phrase title="attachments_directory_x_not_found" addon_id="XenForo" version_id="1040370" version_string="1.4.3"><![CDATA[The attachments directory '{path}' could not be found.]]></phrase>
-  <phrase title="attachments_or_avatars_being_stored_in_file_system_confirm_path" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Attachments or avatars are being stored in the file system. Please confirm the path to these.]]></phrase>
-  <phrase title="attempts_to_email_x_have_failed_please_update" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Attempts to send emails to {email} have failed. Please update your email.]]></phrase>
-  <phrase title="authentication" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Authentication]]></phrase>
-  <phrase title="authentication_scheme_class" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Authentication Scheme Class]]></phrase>
-  <phrase title="author" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Author]]></phrase>
-  <phrase title="auto_embed_media_and_add_link_in_this_bb_code" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Auto-embed media, and add a link to the content within this BB code]]></phrase>
-  <phrase title="auto_embed_media_links" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Auto-embed media links]]></phrase>
-  <phrase title="auto_reply" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Auto-Reply]]></phrase>
-  <phrase title="automatically_apply_template_modification" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Automatically apply template modification]]></phrase>
-  <phrase title="automatically_merge_changes" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Automatically Merge Changes]]></phrase>
-  <phrase title="automatically_merge_template_changes" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Automatically Merge Template Changes]]></phrase>
-  <phrase title="automatically_merge_users" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Automatically merge users]]></phrase>
-  <phrase title="automatically_watch_threads_you_create_or_when_you_reply" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Automatically watch threads that you create or when you reply]]></phrase>
-  <phrase title="available_prefixes" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Available Prefixes]]></phrase>
-  <phrase title="available_template_parameters" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Available Template Parameters]]></phrase>
-  <phrase title="available_upgrades" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Available Upgrades]]></phrase>
+En caso tal de que algunos de los temas seleccionados no sean elegibles para aplicar el prefijo seleccionado, no serán alterados pero permanecerán seleccionados.]]></phrase>
+  <phrase title="apply_user_group_options" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Aplicar opciones de grupo de usuarios]]></phrase>
+  <phrase title="apply_warning_points" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Aplicar los puntos de alerta]]></phrase>
+  <phrase title="approve" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Aprobar]]></phrase>
+  <phrase title="approve_posts" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Aprobar mensajes]]></phrase>
+  <phrase title="approve_threads" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Aprobar temas]]></phrase>
+  <phrase title="approved_sites" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sitios aprobados]]></phrase>
+  <phrase title="archive_import_log" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[¿Archivar la tabla de registro (Log) de importación?]]></phrase>
+  <phrase title="archive_import_log_explain" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Es posible que usted archive el registro de importación en una nueva tabla de la base de datos especificando un nombre único aquí. Para más detalle revise la documentación disponible en este vínculo: <a href="http://xenforo.com/help/import-redirection/" target="_blank">Redirección de importación</a>.]]></phrase>
+  <phrase title="archive_the_import_log" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Archivar el registro de importación (Log) en esta nueva tabla]]></phrase>
+  <phrase title="are_you_sure_you_want_to_complete_this_import_cant_resume" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[¿Está seguro de completar esta importación? si lo hace, usted no podrá restaurar la importación desde el punto actual.]]></phrase>
+  <phrase title="argument_must_be_string" addon_id="XenForo" version_id="0" version_string=""><![CDATA[El argumento debe ser una cadena]]></phrase>
+  <phrase title="array" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Arreglo]]></phrase>
+  <phrase title="array_sub_options" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sub-opciones de arreglo]]></phrase>
+  <phrase title="ascending" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ascendente]]></phrase>
+  <phrase title="ascending_order" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Orden ascendente]]></phrase>
+  <phrase title="assigned" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Asignado]]></phrase>
+  <phrase title="assigned_to" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Asignado a]]></phrase>
+  <phrase title="associate_account" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cuenta asociada]]></phrase>
+  <phrase title="associate_existing_account" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cuenta existente asociada]]></phrase>
+  <phrase title="associate_with" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Asociar con]]></phrase>
+  <phrase title="associate_with_facebook" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Asociar con Facebook]]></phrase>
+  <phrase title="associate_with_google" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Asociar con Google]]></phrase>
+  <phrase title="associate_with_twitter" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Asociar con Twitter]]></phrase>
+  <phrase title="associated_facebook_account" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Asociado con cuenta de Facebook]]></phrase>
+  <phrase title="associated_google_account" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Asociado con cuenta de Google]]></phrase>
+  <phrase title="associated_twitter_account" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Asociado con cuenta de Twitter]]></phrase>
+  <phrase title="attach_child_nodes_to_another_parent" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Adjuntar nodos hijo hacia otro nodo padre]]></phrase>
+  <phrase title="attached_files" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Archivos adjuntos]]></phrase>
+  <phrase title="attaches_file_to_watched_thread" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Adjuntar un archivo en un tema visto]]></phrase>
+  <phrase title="attachment_browser" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Navegador de archivo adjunto]]></phrase>
+  <phrase title="attachment_browser_largest_files" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Los archivos más grandes]]></phrase>
+  <phrase title="attachment_browser_most_recently_uploaded" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Más actualizados recientemente]]></phrase>
+  <phrase title="attachment_cannot_be_shown_at_this_time" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Este archivo adjunto no puede mostrarse en este momento. Por favor intente después.]]></phrase>
+  <phrase title="attachment_could_not_be_read_by_server" addon_id="XenForo" version_id="0" version_string=""><![CDATA[El archivo adjunto no puede ser leido por el servidor. Por favor intente de nuevo después.]]></phrase>
+  <phrase title="attachment_disk_usage" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Uso del disco de adjuntos en (MB)]]></phrase>
+  <phrase title="attachment_path" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[Ruta del archivo adjunto]]></phrase>
+  <phrase title="attachment_thumbnails" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Miniaturas adjuntas]]></phrase>
+  <phrase title="attachments" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Archivos adjuntos]]></phrase>
+  <phrase title="attachments_directory" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Directorio de archivos adjuntos]]></phrase>
+  <phrase title="attachments_directory_not_found" addon_id="XenForo" version_id="0" version_string=""><![CDATA[La carpeta de archivos adjuntos no se ha podido encontrar.]]></phrase>
+  <phrase title="attachments_directory_x_not_found" addon_id="XenForo" version_id="1040370" version_string="1.4.3"><![CDATA[La carpeta de archivos adjuntos '{path}' no pudo ser encontrada.]]></phrase>
+  <phrase title="attachments_or_avatars_being_stored_in_file_system_confirm_path" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Los archivos adjuntos o avatares están siendo guardados en el sistema de archivos. Por favor confirme la ruta para ellos.]]></phrase>
+  <phrase title="attempts_to_email_x_have_failed_please_update" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Los intentos para el envío de correo electrónico a {email} ha fallado. Por favor actualice su correo electrónico.]]></phrase>
+  <phrase title="authentication" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Autenticación]]></phrase>
+  <phrase title="authentication_scheme_class" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Esquema de clases de la autenticación]]></phrase>
+  <phrase title="author" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Autor]]></phrase>
+  <phrase title="auto_embed_media_and_add_link_in_this_bb_code" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[medios automáticamente embebidos, y agregar un enlace hacia el contenido dentro de este código BB]]></phrase>
+  <phrase title="auto_embed_media_links" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Enlaces de medios auto embebidos]]></phrase>
+  <phrase title="auto_reply" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Respuesta automática]]></phrase>
+  <phrase title="automatically_apply_template_modification" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Modificación de plantilla aplicada automáticamente]]></phrase>
+  <phrase title="automatically_merge_changes" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Combinar cambios automáticamente]]></phrase>
+  <phrase title="automatically_merge_template_changes" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Combinar cambios de plantilla automáticamente]]></phrase>
+  <phrase title="automatically_merge_users" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Combinar usuarios automáticamente]]></phrase>
+  <phrase title="automatically_watch_threads_you_create_or_when_you_reply" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Ver temas que usted haya creado o cuando los haya respondido automáticamente]]></phrase>
+  <phrase title="available_prefixes" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Prefijos disponibles]]></phrase>
+  <phrase title="available_template_parameters" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Parámetros de plantilla disponibles]]></phrase>
+  <phrase title="available_upgrades" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Actualizaciones disponibles]]></phrase>
   <phrase title="avatar" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Avatar]]></phrase>
-  <phrase title="avatar_date" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Avatar Date]]></phrase>
-  <phrase title="avatar_editor" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Avatar Editor]]></phrase>
-  <phrase title="avatars_directory_not_found" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The avatars directory could not be found.]]></phrase>
-  <phrase title="awaiting_approval" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Awaiting Approval]]></phrase>
-  <phrase title="awaiting_email_confirmation" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Awaiting email confirmation]]></phrase>
-  <phrase title="awaiting_email_confirmation_from_edit" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Awaiting email confirmation (from edit)]]></phrase>
-  <phrase title="awaiting_moderation" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Awaiting moderation]]></phrase>
-  <phrase title="awaiting_moderation_before_being_displayed_publicly" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Awaiting moderation before being displayed publicly.]]></phrase>
-  <phrase title="award_this_trophy_if" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Award This Trophy If...]]></phrase>
-  <phrase title="awarded" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Awarded]]></phrase>
-  <phrase title="background" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Background]]></phrase>
-  <phrase title="background_position_x" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Background Position X]]></phrase>
-  <phrase title="background_position_y" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Background Position Y]]></phrase>
-  <phrase title="ban" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Ban]]></phrase>
-  <phrase title="ban_email_address" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ban Email Address]]></phrase>
-  <phrase title="ban_ends" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ban Ends]]></phrase>
-  <phrase title="ban_ip" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ban IP]]></phrase>
+  <phrase title="avatar_date" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Fecha del avatar]]></phrase>
+  <phrase title="avatar_editor" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Editor del avatar]]></phrase>
+  <phrase title="avatars_directory_not_found" addon_id="XenForo" version_id="0" version_string=""><![CDATA[La carpeta de avatares no ha sido encontrada.]]></phrase>
+  <phrase title="awaiting_approval" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Esperando aprobación]]></phrase>
+  <phrase title="awaiting_email_confirmation" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Esperando confirmación de correo electrónico]]></phrase>
+  <phrase title="awaiting_email_confirmation_from_edit" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Esperando confirmación de correo electrónico (de edición)]]></phrase>
+  <phrase title="awaiting_moderation" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Esperando moderación]]></phrase>
+  <phrase title="awaiting_moderation_before_being_displayed_publicly" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Esperando moderación antes de ser mostrado al públicamente.]]></phrase>
+  <phrase title="award_this_trophy_if" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Este premio de trofeo si...]]></phrase>
+  <phrase title="awarded" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Galardonado]]></phrase>
+  <phrase title="background" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Fondo]]></phrase>
+  <phrase title="background_position_x" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Posición X del fondo]]></phrase>
+  <phrase title="background_position_y" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Posición Y del fondo]]></phrase>
+  <phrase title="ban" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Prohibición]]></phrase>
+  <phrase title="ban_email_address" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Dirección de correo electrónico prohibida]]></phrase>
+  <phrase title="ban_ends" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Fin de la Prohibición]]></phrase>
+  <phrase title="ban_ip" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[IP No permitida]]></phrase>
   <phrase title="ban_is_permanent" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The ban is permanent.]]></phrase>
   <phrase title="ban_length" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ban Length]]></phrase>
   <phrase title="ban_spammer" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Ban spammer]]></phrase>
