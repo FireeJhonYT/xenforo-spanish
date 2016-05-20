@@ -398,106 +398,106 @@ En caso tal de que algunos de los temas seleccionados no sean elegibles para apl
   <phrase title="ban_email_address" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Dirección de correo electrónico prohibida]]></phrase>
   <phrase title="ban_ends" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Fin de la Prohibición]]></phrase>
   <phrase title="ban_ip" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[IP No permitida]]></phrase>
-  <phrase title="ban_is_permanent" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The ban is permanent.]]></phrase>
-  <phrase title="ban_length" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ban Length]]></phrase>
+  <phrase title="ban_is_permanent" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[El baneo es permanente.]]></phrase>
+  <phrase title="ban_length" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Longitud del baneo]]></phrase>
   <phrase title="ban_spammer" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Ban spammer]]></phrase>
-  <phrase title="ban_started" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ban Started]]></phrase>
-  <phrase title="ban_user" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ban User]]></phrase>
-  <phrase title="ban_users_permanently" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Ban users (permanently)]]></phrase>
-  <phrase title="ban_will_be_automatically_lifted_on_x" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The ban will be automatically lifted on {date}.]]></phrase>
-  <phrase title="banned" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Banned]]></phrase>
-  <phrase title="banned_by" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Banned By]]></phrase>
-  <phrase title="banned_email_addresses" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Banned Email Addresses]]></phrase>
-  <phrase title="banned_emails" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Banned Emails]]></phrase>
-  <phrase title="banned_for_period" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Banned for period]]></phrase>
-  <phrase title="banned_for_time_period" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Banned for time period]]></phrase>
-  <phrase title="banned_ip_addresses" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Banned IP Addresses]]></phrase>
-  <phrase title="banned_ips" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Banned IPs]]></phrase>
-  <phrase title="banned_members" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Banned Members]]></phrase>
-  <phrase title="banned_state" addon_id="XenForo" version_id="1040033" version_string="1.4.0 Beta 3"><![CDATA[Banned State]]></phrase>
-  <phrase title="banned_user_group_id" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Banned User Group ID]]></phrase>
-  <phrase title="banned_users" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Banned Users]]></phrase>
-  <phrase title="banned_while_above_points_threshold" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Banned while at or above points threshold]]></phrase>
+  <phrase title="ban_started" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Baneo iniciado]]></phrase>
+  <phrase title="ban_user" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Usuario baneado]]></phrase>
+  <phrase title="ban_users_permanently" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Usuarios baneados (de forma permamente)]]></phrase>
+  <phrase title="ban_will_be_automatically_lifted_on_x" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[El baneo será levantado automáticamente en la fecha: {date}.]]></phrase>
+  <phrase title="banned" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Baneado]]></phrase>
+  <phrase title="banned_by" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Baneado por]]></phrase>
+  <phrase title="banned_email_addresses" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Direcciones de correo electrónico baneados]]></phrase>
+  <phrase title="banned_emails" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Correos electrónicos baneados]]></phrase>
+  <phrase title="banned_for_period" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Baneado por el período]]></phrase>
+  <phrase title="banned_for_time_period" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Baneado por el período de tiempo]]></phrase>
+  <phrase title="banned_ip_addresses" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Direcciones IP Baneadas]]></phrase>
+  <phrase title="banned_ips" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[IPs Baneadas]]></phrase>
+  <phrase title="banned_members" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Miembros baneados]]></phrase>
+  <phrase title="banned_state" addon_id="XenForo" version_id="1040033" version_string="1.4.0 Beta 3"><![CDATA[Estado baneado]]></phrase>
+  <phrase title="banned_user_group_id" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[ID de grupo del usuario baneado]]></phrase>
+  <phrase title="banned_users" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Usuarios baneados]]></phrase>
+  <phrase title="banned_while_above_points_threshold" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Baneado mientras esté por ensima del umbral de puntos]]></phrase>
   <phrase title="banner" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Banner]]></phrase>
-  <phrase title="banner_displayed_under_name_of_members_of_this_group" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[This will be displayed under the name of members of this group in certain circumstances, such as with posts.]]></phrase>
-  <phrase title="banning" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Banning]]></phrase>
-  <phrase title="basic_information" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Basic Information]]></phrase>
-  <phrase title="batch_update_selected" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Batch Update Selected]]></phrase>
-  <phrase title="batch_update_threads" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Batch Update Threads]]></phrase>
-  <phrase title="batch_update_users" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Batch Update Users]]></phrase>
-  <phrase title="batch_update_was_completed_successfully" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[The batch update was completed successfully.]]></phrase>
-  <phrase title="bb_code_help_align_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Changes the alignment of the wrapped text.]]></phrase>
-  <phrase title="bb_code_help_align_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[LEFT]Left-aligned[/LEFT]
-[CENTER]Center-aligned[/CENTER]
-[RIGHT]Right-aligned[/RIGHT]]]></phrase>
-  <phrase title="bb_code_help_align_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[LEFT], [CENTER], [RIGHT] - Text Alignment]]></phrase>
-  <phrase title="bb_code_help_attach_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Inserts an attachment at the specified point. If the attachment is an image, a thumbnail or full size version will be inserted. This will generally be inserted by clicking the appropriate button.]]></phrase>
-  <phrase title="bb_code_help_attach_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[ATTACH] - Attachment Insertion]]></phrase>
-  <phrase title="bb_code_help_b_i_u_s_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Makes the wrapped text bold, italic, underlined, or struck-through.]]></phrase>
-  <phrase title="bb_code_help_b_i_u_s_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[This is [B]bold[/B] text.
-This is [I]italic[/I] text.
-This is [U]underlined[/U] text.
-This is [S]struck-through[/S] text.]]></phrase>
+  <phrase title="banner_displayed_under_name_of_members_of_this_group" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Esto se mostrará bajo el nombre de miembros de este grupo en ciertas circunstancias, como con los mensajes.]]></phrase>
+  <phrase title="banning" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Baneo]]></phrase>
+  <phrase title="basic_information" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Información básica]]></phrase>
+  <phrase title="batch_update_selected" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Lote de actualización seleccionada]]></phrase>
+  <phrase title="batch_update_threads" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Lote de temas actualizados]]></phrase>
+  <phrase title="batch_update_users" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Lote de usuarios actualizados]]></phrase>
+  <phrase title="batch_update_was_completed_successfully" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[La actualización por lotes se completó satisfactoriamente.]]></phrase>
+  <phrase title="bb_code_help_align_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cambia la alineación de los textos envueltos.]]></phrase>
+  <phrase title="bb_code_help_align_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[LEFT]Alineado-izquierda[/LEFT]
+[CENTER]Alineación-centro[/CENTER]
+[RIGHT]Alineación-derecha[/RIGHT]]]></phrase>
+  <phrase title="bb_code_help_align_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[LEFT], [CENTER], [RIGHT] - Argumento de texto]]></phrase>
+  <phrase title="bb_code_help_attach_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Insertar un archivo adjunto en un punto especificado. Si el adjunto es una imagen, una miniatura o de tamaño completo será insertado. Esto generalmente lo insertará si hace clic en el botón correspondiente.]]></phrase>
+  <phrase title="bb_code_help_attach_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[ATTACH] - Insersión de archivo adjunto]]></phrase>
+  <phrase title="bb_code_help_b_i_u_s_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hacer del texto envuelto en negrita, itálico, subrayado o tachado.]]></phrase>
+  <phrase title="bb_code_help_b_i_u_s_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Esto es texto en[B]negrita[/B].
+Esto es texto [I]itálico[/I].
+Esto es texto [U]subrayado[/U].
+Esto es texto [S]tachado[/S] .]]></phrase>
   <phrase title="bb_code_help_b_i_u_s_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[B], [I], [U], [S] - Bold, Italics, Underline, and Strike-through]]></phrase>
   <phrase title="bb_code_help_code_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Displays text in one of several programming languages, highlighting the syntax where possible.]]></phrase>
   <phrase title="bb_code_help_code_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[CODE]General
 code[/CODE]
 [PHP]echo $hello . 'world';[/PHP]]]></phrase>
-  <phrase title="bb_code_help_code_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[CODE], [PHP], [HTML] - Programming Code Display]]></phrase>
-  <phrase title="bb_code_help_color_font_size_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Changes the color, font, or size of the wrapped text.]]></phrase>
-  <phrase title="bb_code_help_color_font_size_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[This is [COLOR=red]red[/COLOR] and [COLOR=#0000cc]blue[/COLOR] text.
+  <phrase title="bb_code_help_code_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[CODE], [PHP], [HTML] - código de programación]]></phrase>
+  <phrase title="bb_code_help_color_font_size_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cambia el color, fuente o tamaño del texto seleccionado.]]></phrase>
+  <phrase title="bb_code_help_color_font_size_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Esto es texto en[COLOR=red]rojo[/COLOR] y [COLOR=#0000cc]azul[/COLOR].
 This is [FONT=Courier New]Courier New[/FONT] text.
-This is [SIZE=1]small[/SIZE] and [SIZE=7]big[/SIZE] text.]]></phrase>
-  <phrase title="bb_code_help_color_font_size_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[COLOR=<span class="option">color</span>], [FONT=<span class="option">name</span>], [SIZE=<span class="option">size</span>] - Text Color, Font, and Size]]></phrase>
-  <phrase title="bb_code_help_img_desc" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Display an image, using the wrapped text as the URL.]]></phrase>
-  <phrase title="bb_code_help_img_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[IMG] - Image]]></phrase>
-  <phrase title="bb_code_help_indent_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Indents the wrapped text. This can be nested for larger indentings.]]></phrase>
-  <phrase title="bb_code_help_indent_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Regular text
-[INDENT]Indented text
-[INDENT]More indented[/INDENT]
+Esto es texto [SIZE=1]pequeño[/SIZE] y [SIZE=7]grande[/SIZE].]]></phrase>
+  <phrase title="bb_code_help_color_font_size_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[COLOR=<span class="option">color</span>], [FONT=<span class="option">name</span>], [SIZE=<span class="option">size</span>] - Color de texto, fuente y tamaño]]></phrase>
+  <phrase title="bb_code_help_img_desc" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Mostrar una imagen, utilizando el texto seleccionado como la URL.]]></phrase>
+  <phrase title="bb_code_help_img_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[IMG] - Imagen]]></phrase>
+  <phrase title="bb_code_help_indent_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Guiones de texto seleccionado. Se puede anidar para largos guiones.]]></phrase>
+  <phrase title="bb_code_help_indent_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Texto regular
+[INDENT]Texto indentado
+[INDENT]Más indentado[/INDENT]
 [/INDENT]]]></phrase>
-  <phrase title="bb_code_help_indent_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[INDENT] - Text Indent]]></phrase>
-  <phrase title="bb_code_help_list_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Displays a bulleted or numbered list.]]></phrase>
+  <phrase title="bb_code_help_indent_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[INDENT] - Texto indentado]]></phrase>
+  <phrase title="bb_code_help_list_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Muestra una lista de viñetas o enumerada.]]></phrase>
   <phrase title="bb_code_help_list_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[LIST]
-[*]Bullet 1
-[*]Bullet 2
+[*]Viñeta 1
+[*]Viñeta 2
 [/LIST]
 [LIST=1]
-[*]Entry 1
-[*]Entry 2
+[*]Entrada 1
+[*]Entrada 2
 [/LIST]]]></phrase>
-  <phrase title="bb_code_help_list_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[LIST] - Lists]]></phrase>
-  <phrase title="bb_code_help_media_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Embeds media from approved sites into your message. It is recommended that you use the media button in the editor tool bar.]]></phrase>
-  <phrase title="bb_code_help_media_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[MEDIA=<span class="option">site</span>] - Embedded Media]]></phrase>
-  <phrase title="bb_code_help_plain_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Disables BB code translation on the wrapped text.]]></phrase>
-  <phrase title="bb_code_help_plain_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[PLAIN]This is not [B]bold[/B] text.[/PLAIN]]]></phrase>
-  <phrase title="bb_code_help_plain_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[PLAIN] - Plain Text]]></phrase>
-  <phrase title="bb_code_help_quote_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Displays text that has been quoted from another source. You may also attribute the name of the source.]]></phrase>
+  <phrase title="bb_code_help_list_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[LIST] - Listas]]></phrase>
+  <phrase title="bb_code_help_media_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Medios embebidos de sitios aprobados dentro de su mensaje. Se recomienda que haga uso del botón multimedia en las herramientas del editor.]]></phrase>
+  <phrase title="bb_code_help_media_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[MEDIA=<span class="option">site</span>] - Medios embebidos]]></phrase>
+  <phrase title="bb_code_help_plain_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Deshabilitar la traducción de los códigos BB del texto seleccionado.]]></phrase>
+  <phrase title="bb_code_help_plain_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[PLAIN]Esto no es texto en[B]negrita[/B].[/PLAIN]]]></phrase>
+  <phrase title="bb_code_help_plain_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[PLAIN] - Texto plano]]></phrase>
+  <phrase title="bb_code_help_quote_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Muestra el texto que ha sido citado desde otra fuente. También puede atribuir el nombre de la fuente.]]></phrase>
   <phrase title="bb_code_help_quote_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[QUOTE]Quoted text[/QUOTE]
-[QUOTE=A person]Something they said[/QUOTE]]]></phrase>
-  <phrase title="bb_code_help_quote_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[QUOTE] - Quoted Text]]></phrase>
-  <phrase title="bb_code_help_spoiler_desc" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Hides text that may contain spoilers so that it must be clicked by the viewer to be seen.]]></phrase>
-  <phrase title="bb_code_help_spoiler_example" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[[SPOILER]Simple spoiler[/SPOILER]
-[SPOILER=Spoiler Title]Spoiler with a title[/SPOILER]]]></phrase>
-  <phrase title="bb_code_help_spoiler_title" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[[SPOILER] - Text Containing Spoilers]]></phrase>
-  <phrase title="bb_code_help_url_email_advanced_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Links the wrapped text to the specified web page or email address.]]></phrase>
-  <phrase title="bb_code_help_url_email_advanced_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[URL=http://www.example.com]Go to example.com[/URL]
-[EMAIL=example@example.com]Email me[/EMAIL]]]></phrase>
-  <phrase title="bb_code_help_url_email_advanced_title" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[[URL=<span class="option">link</span>], [EMAIL=<span class="option">address</span>] - Linking (Advanced)]]></phrase>
-  <phrase title="bb_code_help_url_email_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Creates a link using the wrapped text as the target.]]></phrase>
-  <phrase title="bb_code_help_url_email_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[URL]http://www.example.com[/URL]
-[EMAIL]example@example.com[/EMAIL]]]></phrase>
-  <phrase title="bb_code_help_url_email_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[URL], [EMAIL] - Linking]]></phrase>
-  <phrase title="bb_code_help_user_desc" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Links to a user's profile. This is generally inserted automatically when tagging a user.]]></phrase>
+[QUOTE=A person]Algo que dijeron[/QUOTE]]]></phrase>
+  <phrase title="bb_code_help_quote_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[QUOTE] - Texto citado]]></phrase>
+  <phrase title="bb_code_help_spoiler_desc" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Oculta texto que quiza contiene contenido spoiler, de modo que el usuario debe hacer clic para ver el contenido.]]></phrase>
+  <phrase title="bb_code_help_spoiler_example" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[[SPOILER]Spoiler simple[/SPOILER]
+[SPOILER=Spoiler Title]Título con un spoiler[/SPOILER]]]></phrase>
+  <phrase title="bb_code_help_spoiler_title" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[[SPOILER] - Texto con contenido spoiler]]></phrase>
+  <phrase title="bb_code_help_url_email_advanced_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[vincula el texto seleccionado a la página web especificada o una dirección de correo electrónico.]]></phrase>
+  <phrase title="bb_code_help_url_email_advanced_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[URL=http://www.example.com]ir a ejemplo.com[/URL]
+[EMAIL=example@example.com]Eníame un correo[/EMAIL]]]></phrase>
+  <phrase title="bb_code_help_url_email_advanced_title" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[[URL=<span class="option">Enlace</span>], [EMAIL=<span class="option">dirección/span>] - Vinculación (Avanzada)]]></phrase>
+  <phrase title="bb_code_help_url_email_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Crea un enlace usando el texto seleccionado como destino.]]></phrase>
+  <phrase title="bb_code_help_url_email_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[URL]http://www.ejemplo.com[/URL]
+[EMAIL]ejemplo@ejemplo.com[/EMAIL]]]></phrase>
+  <phrase title="bb_code_help_url_email_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[URL], [EMAIL] - Enlazando]]></phrase>
+  <phrase title="bb_code_help_user_desc" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Enlaces hacia un perfil de usuario. Generalmente se genera cuando se etiqueta un usuario.]]></phrase>
   <phrase title="bb_code_help_user_example" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[[USER={id}]{name}[/USER]]]></phrase>
-  <phrase title="bb_code_help_user_title" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[[USER=<span class="option">ID</span>] - Profile Linking]]></phrase>
-  <phrase title="bb_code_link_snippet" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[BB Code Link Snippet]]></phrase>
-  <phrase title="bb_code_link_snippet_explain" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Copy and paste this code to create a labeled link in a forum message.]]></phrase>
-  <phrase title="bb_code_media_sites" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[BB Code Media Sites]]></phrase>
-  <phrase title="bb_code_tag" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[BB Code Tag]]></phrase>
-  <phrase title="bb_code_tag_will_work_with_and_without_option_provided" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[This tag will work with and without the option provided. This is most commonly used with PHP callbacks.]]></phrase>
-  <phrase title="bb_code_tags_must_be_unique" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[BB code tags must be unique. The specified tag is already in use.]]></phrase>
-  <phrase title="bb_codes" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[BB Codes]]></phrase>
+  <phrase title="bb_code_help_user_title" addon_id="XenForo" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[[USER=<span class="option">ID</span>] - Enlazando perfil]]></phrase>
+  <phrase title="bb_code_link_snippet" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Código BB del snippet del enlace]]></phrase>
+  <phrase title="bb_code_link_snippet_explain" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Copiar y pegar este código para crear un enlace de etiqueta en un mensaje del foro.]]></phrase>
+  <phrase title="bb_code_media_sites" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sitios de contenidos de códigos BB]]></phrase>
+  <phrase title="bb_code_tag" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Etiqueta del código BB]]></phrase>
+  <phrase title="bb_code_tag_will_work_with_and_without_option_provided" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Esta etiqueta trabajará con o sin la opción prevista. Esto es usado comúnmente con callbacks de PHP.]]></phrase>
+  <phrase title="bb_code_tags_must_be_unique" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Las etiquetas de código BB deben ser únicas. Las etiquetas especificadas ya se encuentran en uso.]]></phrase>
+  <phrase title="bb_codes" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Códigos BB]]></phrase>
   <phrase title="bb_codes_for_addon_not_exported_independently" addon_id="XenForo" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[BB codes that belong to an add-on can not be exported independently.]]></phrase>
   <phrase title="bdtagme_email_tagged_html_1" addon_id="bdTagMe" version_id="40" version_string="1.6.6"><![CDATA[{receiver_username}, {username} tagged you at {board_title}.]]></phrase>
   <phrase title="bdtagme_email_tagged_html_2" addon_id="bdTagMe" version_id="40" version_string="1.6.6"><![CDATA[To view the tagged content, click here]]></phrase>
