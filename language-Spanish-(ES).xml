@@ -499,105 +499,105 @@ Esto es texto [SIZE=1]pequeño[/SIZE] y [SIZE=7]grande[/SIZE].]]></phrase>
   <phrase title="bb_code_tag_will_work_with_and_without_option_provided" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Esta etiqueta trabajará con o sin la opción prevista. Esto es usado comúnmente con callbacks de PHP.]]></phrase>
   <phrase title="bb_code_tags_must_be_unique" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Las etiquetas de código BB deben ser únicas. Las etiquetas especificadas ya se encuentran en uso.]]></phrase>
   <phrase title="bb_codes" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Códigos BB]]></phrase>
-  <phrase title="bb_codes_for_addon_not_exported_independently" addon_id="XenForo" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[BB codes that belong to an add-on can not be exported independently.]]></phrase>
-  <phrase title="birthday" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Birthday]]></phrase>
-  <phrase title="block_this_registration" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[Block this registration]]></phrase>
-  <phrase title="board_currently_being_upgraded" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The board is currently being upgraded. Please check back later.]]></phrase>
-  <phrase title="board_waiting_to_be_upgraded_admin" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The board is currently waiting to be upgraded. Please <a href="install/index.php">complete the upgrade</a>.]]></phrase>
-  <phrase title="bold" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bold]]></phrase>
-  <phrase title="bold_ctrl_b" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bold (Ctrl+B)]]></phrase>
-  <phrase title="boolean" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Boolean]]></phrase>
-  <phrase title="border" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Border]]></phrase>
-  <phrase title="bottom" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bottom]]></phrase>
-  <phrase title="bounce" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Bounce]]></phrase>
-  <phrase title="breadcrumb_tag_must_be_within_navigation_tag" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Breadcrumb tag must be within a navigation tag.]]></phrase>
-  <phrase title="browse" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Browse]]></phrase>
-  <phrase title="browsing_preferences" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Browsing Preferences]]></phrase>
-  <phrase title="build_content_type" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Build content type]]></phrase>
-  <phrase title="by_x" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[by {name}]]></phrase>
-  <phrase title="cache_rebuilt_successfully" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[Cache rebuilt successfully.]]></phrase>
-  <phrase title="cache_this_phrase_globally" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Cache this phrase globally]]></phrase>
-  <phrase title="calculate_names_during_like_import" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Calculate names during 'like' import]]></phrase>
-  <phrase title="callback_class_x_for_option_y_is_not_valid" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The callback class '{class}' for option '{option}' is not valid.]]></phrase>
-  <phrase title="callback_execution_order" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Callback Execution Order]]></phrase>
-  <phrase title="callback_failed" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Callback failed]]></phrase>
-  <phrase title="callback_x_invalid_y" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Callback {callback} is invalid ({error}).]]></phrase>
-  <phrase title="can_be_purchased" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Can be purchased]]></phrase>
-  <phrase title="can_not_delete_property_from_master_style" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[It is not possible to delete style properties from the master style using this tool.]]></phrase>
-  <phrase title="cancel" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cancel]]></phrase>
-  <phrase title="cancel_and_close_these_controls" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cancel and close these controls]]></phrase>
-  <phrase title="cancel_subscription" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cancel Subscription]]></phrase>
-  <phrase title="cancellation" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Cancellation]]></phrase>
-  <phrase title="cancelling" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Cancelling]]></phrase>
+  <phrase title="bb_codes_for_addon_not_exported_independently" addon_id="XenForo" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[los códigos BB de un complemento (add-on) no pueden exportarse de forma independiente.]]></phrase>
+  <phrase title="birthday" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cumpleaños]]></phrase>
+  <phrase title="block_this_registration" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[Bloquear este registro]]></phrase>
+  <phrase title="board_currently_being_upgraded" addon_id="XenForo" version_id="0" version_string=""><![CDATA[El tablero se está actualizando, por favor vuelva luego.]]></phrase>
+  <phrase title="board_waiting_to_be_upgraded_admin" addon_id="XenForo" version_id="0" version_string=""><![CDATA[El tablero está esperando a ser actualizado. Por favor <a href="install/index.php">complete la actualización</a>.]]></phrase>
+  <phrase title="bold" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Negrita]]></phrase>
+  <phrase title="bold_ctrl_b" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Negrita (Ctrl+B)]]></phrase>
+  <phrase title="boolean" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Booleano]]></phrase>
+  <phrase title="border" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Borde]]></phrase>
+  <phrase title="bottom" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Cola]]></phrase>
+  <phrase title="bounce" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Rebote]]></phrase>
+  <phrase title="breadcrumb_tag_must_be_within_navigation_tag" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Las etiquetas de migas de pan deben estar dentro de una etiqueta de navegación.]]></phrase>
+  <phrase title="browse" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Buscar]]></phrase>
+  <phrase title="browsing_preferences" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Preferencias de búsqueda]]></phrase>
+  <phrase title="build_content_type" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Construir tipo de contenido]]></phrase>
+  <phrase title="by_x" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[por {name}]]></phrase>
+  <phrase title="cache_rebuilt_successfully" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[Reconstrucción de la caché exitosa.]]></phrase>
+  <phrase title="cache_this_phrase_globally" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Cachear esta frase a nivel mundial]]></phrase>
+  <phrase title="calculate_names_during_like_import" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Calcular nombres durante la importación de 'like']]></phrase>
+  <phrase title="callback_class_x_for_option_y_is_not_valid" addon_id="XenForo" version_id="0" version_string=""><![CDATA[La clase Callback '{class}' para la opción '{option}' no es válida.]]></phrase>
+  <phrase title="callback_execution_order" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Orden de ejecusión del Callback]]></phrase>
+  <phrase title="callback_failed" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Callback fallido]]></phrase>
+  <phrase title="callback_x_invalid_y" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Callback {callback} es inválido ({error}).]]></phrase>
+  <phrase title="can_be_purchased" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Puede comprarse]]></phrase>
+  <phrase title="can_not_delete_property_from_master_style" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[No es posible eliminar las propiedades de estilos desde el estilo maestro usando esta herramienta.]]></phrase>
+  <phrase title="cancel" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cancelar]]></phrase>
+  <phrase title="cancel_and_close_these_controls" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cancelar y cerrar estos controles]]></phrase>
+  <phrase title="cancel_subscription" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cancelar suscripción]]></phrase>
+  <phrase title="cancellation" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Cancelación]]></phrase>
+  <phrase title="cancelling" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Cancelando]]></phrase>
   <phrase title="cannot_have_content_checking_if_tag_without_contentcheck_part" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Cannot have content-checking if tag without a contentcheck part.]]></phrase>
-  <phrase title="cannot_merge_thread_redirection_notice" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You cannot merge a thread redirection notice with another thread. Please deselect the redirection notice and try again.]]></phrase>
+  <phrase title="cannot_merge_thread_redirection_notice" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Usted no puede combinar la notificación de redirección de un tema con otro tema. Por favor intente de nuevo.]]></phrase>
   <phrase title="captcha" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[CAPTCHA]]></phrase>
-  <phrase title="captcha_question_answers_explain" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[You may add as many correct answers as you like. Empty answer fields will be ignored. Answers are not case-sensitive.]]></phrase>
-  <phrase title="case_sensitive" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Case sensitive]]></phrase>
-  <phrase title="cast_your_vote" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cast Your Vote]]></phrase>
+  <phrase title="captcha_question_answers_explain" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Usted puede añadir tantas respuestas correctas como guste. Los campos de respuestas vacías serán ignorados. Las respuestas no distinguen mayúsculas ni minúsculas.]]></phrase>
+  <phrase title="case_sensitive" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Distingue mayúsculas y minúsculas]]></phrase>
+  <phrase title="cast_your_vote" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Haga su voto]]></phrase>
   <phrase title="certain_events_take_hints_that_can_limit_when_listener_is_run" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[When certain events are triggered, they will be triggered with a hint. This hint can be used to limit your listener to only being executed when it's needed, increasing performance. If an event is triggered with a hint, the potential hint values will be listed in the event description above. If you specify a hint here, your listener will only be run if your hint matches the hint provided when the event is triggered.]]></phrase>
-  <phrase title="challenge" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Challenge]]></phrase>
-  <phrase title="challenge_key" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Challenge Key]]></phrase>
-  <phrase title="change_conflicting_email_address" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Change conflicting email address]]></phrase>
-  <phrase title="change_conflicting_user_name" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Change conflicting user name]]></phrase>
-  <phrase title="change_conflicting_user_name_and_email_address" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Change conflicting user name and email address]]></phrase>
-  <phrase title="change_log" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Change Log]]></phrase>
-  <phrase title="change_your_vote" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Change Your Vote]]></phrase>
-  <phrase title="changes_saved" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Changes Saved]]></phrase>
-  <phrase title="characters_remaining" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Characters remaining]]></phrase>
-  <phrase title="check_all_x" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Check all: '{option}']]></phrase>
-  <phrase title="check_boxes" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Check Boxes]]></phrase>
-  <phrase title="check_spammers_ips" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Check spammer's IPs]]></phrase>
-  <phrase title="child" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Child]]></phrase>
-  <phrase title="child_node" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Child Node]]></phrase>
-  <phrase title="child_of_language" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Child of language]]></phrase>
-  <phrase title="child_of_style" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Child of style]]></phrase>
-  <phrase title="circular_reference_found_in_template_includes" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Circular reference found in template includes.]]></phrase>
-  <phrase title="claim_and_handle_report" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Claim and Handle Report]]></phrase>
-  <phrase title="class" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Class]]></phrase>
-  <phrase title="clean_up" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Clean Up]]></phrase>
-  <phrase title="clean_up_permissions" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[Clean Up Permissions]]></phrase>
-  <phrase title="clear" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Clear]]></phrase>
-  <phrase title="clear_filter_parameters" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Clear filter parameters]]></phrase>
-  <phrase title="clear_last_edit_information" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Clear last edit information]]></phrase>
-  <phrase title="clear_server_error_log" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Clear Server Error Log]]></phrase>
-  <phrase title="clear_value" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Clear value]]></phrase>
-  <phrase title="click_here_to_display_older_threads" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Click here to display older threads.]]></phrase>
-  <phrase title="click_image_show_full_size_version" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Click this image to show the full-size version.]]></phrase>
-  <phrase title="click_image_to_change_your_avatar" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Click the image to change your avatar.]]></phrase>
-  <phrase title="click_to_expand" addon_id="XenForo" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[Click to expand...]]></phrase>
-  <phrase title="click_to_recache_this_pruned_image" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Click to recache this image, which has been pruned from the system.]]></phrase>
-  <phrase title="click_to_reveal_spoiler" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Click to reveal or hide spoiler]]></phrase>
-  <phrase title="close" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Close]]></phrase>
-  <phrase title="close_this_overlay" addon_id="XenForo" version_id="1020370" version_string="1.2.3"><![CDATA[Close This Overlay]]></phrase>
-  <phrase title="close_this_poll_after" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Close this poll after]]></phrase>
-  <phrase title="close_this_poll_on_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Close this poll on {date}]]></phrase>
-  <phrase title="closed_reports" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Closed Reports]]></phrase>
-  <phrase title="closed_reports_x_y" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Closed Reports: {from} - {to}]]></phrase>
-  <phrase title="code" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Code]]></phrase>
-  <phrase title="code_event_execution_order_desc" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[Lower execution orders will run first. Note that listeners that specify an event hint will always run after listeners that don't.]]></phrase>
-  <phrase title="code_event_ids_must_be_unique" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Code event IDs must be unique. The specified ID is already in use.]]></phrase>
-  <phrase title="code_event_listener_editor" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Code Event Listener Editor]]></phrase>
-  <phrase title="code_event_listeners" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Code Event Listeners]]></phrase>
-  <phrase title="code_events" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Code Events]]></phrase>
+  <phrase title="challenge" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Reto]]></phrase>
+  <phrase title="challenge_key" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Clave del reto]]></phrase>
+  <phrase title="change_conflicting_email_address" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Cambiar la dirección de correo electrónico que presenta conflicto]]></phrase>
+  <phrase title="change_conflicting_user_name" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Cambiar el nombre de usuario que está presentando el conflicto]]></phrase>
+  <phrase title="change_conflicting_user_name_and_email_address" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Cambiar la dirección de correo electrónico y el nombre de usuario que están generando el conflicto]]></phrase>
+  <phrase title="change_log" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Registro de cambios (Log)]]></phrase>
+  <phrase title="change_your_vote" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Cambiar su voto]]></phrase>
+  <phrase title="changes_saved" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Cambios guardados]]></phrase>
+  <phrase title="characters_remaining" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Caracteres restantes]]></phrase>
+  <phrase title="check_all_x" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Marque todas las: '{option}']]></phrase>
+  <phrase title="check_boxes" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Casillas de verificación]]></phrase>
+  <phrase title="check_spammers_ips" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Comprobar IPs de los Spammers]]></phrase>
+  <phrase title="child" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Hijo]]></phrase>
+  <phrase title="child_node" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nodo hijo]]></phrase>
+  <phrase title="child_of_language" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Hijo de idioma]]></phrase>
+  <phrase title="child_of_style" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Hijo de estilo]]></phrase>
+  <phrase title="circular_reference_found_in_template_includes" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Referencia circular encontrada dentro de los includes de la plantilla.]]></phrase>
+  <phrase title="claim_and_handle_report" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Informes de reclamos y manejo]]></phrase>
+  <phrase title="class" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Clase]]></phrase>
+  <phrase title="clean_up" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Limpiar]]></phrase>
+  <phrase title="clean_up_permissions" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[Limpiar permisos]]></phrase>
+  <phrase title="clear" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Claro]]></phrase>
+  <phrase title="clear_filter_parameters" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Parámetros de filtro claros]]></phrase>
+  <phrase title="clear_last_edit_information" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Limpiar la última información editada]]></phrase>
+  <phrase title="clear_server_error_log" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Limpiar registro de errores (Log) del servidor]]></phrase>
+  <phrase title="clear_value" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Limpiar valor]]></phrase>
+  <phrase title="click_here_to_display_older_threads" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Clic aquí para mostrar los temas más viejos.]]></phrase>
+  <phrase title="click_image_show_full_size_version" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Clic en la imagen para mostrar la versión de tamaño completo.]]></phrase>
+  <phrase title="click_image_to_change_your_avatar" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Clic en la imagen para cambiar su Avatar.]]></phrase>
+  <phrase title="click_to_expand" addon_id="XenForo" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[Clic para espandir...]]></phrase>
+  <phrase title="click_to_recache_this_pruned_image" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Clic para recachear esta imagen, que ha sido reducida del sistema.]]></phrase>
+  <phrase title="click_to_reveal_spoiler" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Clic para mostrar u ocultar el spoiler]]></phrase>
+  <phrase title="close" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cerrar]]></phrase>
+  <phrase title="close_this_overlay" addon_id="XenForo" version_id="1020370" version_string="1.2.3"><![CDATA[Cerrar esta sobreposición]]></phrase>
+  <phrase title="close_this_poll_after" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cerrar esta encuesta después]]></phrase>
+  <phrase title="close_this_poll_on_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Cerrar esta encuesta en la fecha {date}]]></phrase>
+  <phrase title="closed_reports" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Informes cerrados]]></phrase>
+  <phrase title="closed_reports_x_y" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Informes cerrados: {from} - {to}]]></phrase>
+  <phrase title="code" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Código]]></phrase>
+  <phrase title="code_event_execution_order_desc" addon_id="XenForo" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[Las órdenes de ejecusión de nivel más bajo correrán primero. Note that listeners that specify an event hint will always run after listeners that don't.]]></phrase>
+  <phrase title="code_event_ids_must_be_unique" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Los IDs de código de evento deben ser únicos. El ID especificado ya está en uso.]]></phrase>
+  <phrase title="code_event_listener_editor" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Editor de oyentes del código de evento]]></phrase>
+  <phrase title="code_event_listeners" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Oyentes del código de eventos]]></phrase>
+  <phrase title="code_events" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Código de eventos]]></phrase>
   <phrase title="color" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Color]]></phrase>
-  <phrase title="color_palette" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Color Palette]]></phrase>
-  <phrase title="color_palette_style_properties_must_be_scalar" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[Color palette style properties must be scalar.]]></phrase>
-  <phrase title="color_picker" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Color Picker]]></phrase>
-  <phrase title="combo_box_tags_must_specify_name" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Combo box tags must specify a name.]]></phrase>
-  <phrase title="commas_not_allowed_in_user_names" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Commas are not allowed in user names.]]></phrase>
-  <phrase title="comment_noun" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Comment]]></phrase>
-  <phrase title="comment_on_profile_post_by_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Comment on Profile Post by {name}]]></phrase>
-  <phrase title="comment_verb" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Comment]]></phrase>
-  <phrase title="comments" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Comments]]></phrase>
-  <phrase title="comments_on_profile_post_by_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Comments on Profile Post by {name}]]></phrase>
-  <phrase title="comments_on_your_profile_or_status" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Comments on your profile or status]]></phrase>
-  <phrase title="comments_on_your_profile_posts_for_other_members" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Comments on your profile posts for other members]]></phrase>
-  <phrase title="common_searches" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Common Searches]]></phrase>
-  <phrase title="compare_versions" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Compare Versions]]></phrase>
-  <phrase title="compiler_error_may_be_from_another_template_modification" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Compiler error (may be from another template modification)]]></phrase>
-  <phrase title="complete_import" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Complete Import]]></phrase>
-  <phrase title="complete_upgrade" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Complete Upgrade]]></phrase>
+  <phrase title="color_palette" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Paleta de color]]></phrase>
+  <phrase title="color_palette_style_properties_must_be_scalar" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[Las propiedades de estilo de la paleta de color pueden ser escalables.]]></phrase>
+  <phrase title="color_picker" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Selector de color]]></phrase>
+  <phrase title="combo_box_tags_must_specify_name" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Las etiquetas de selección deben especificar un nombre.]]></phrase>
+  <phrase title="commas_not_allowed_in_user_names" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Las comas no están permitidas en los nombres de usuario.]]></phrase>
+  <phrase title="comment_noun" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Comentar]]></phrase>
+  <phrase title="comment_on_profile_post_by_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Comentar en los mensajes de perfil por {name}]]></phrase>
+  <phrase title="comment_verb" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Comentar]]></phrase>
+  <phrase title="comments" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Comentarios]]></phrase>
+  <phrase title="comments_on_profile_post_by_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Comentarios en los mensajes de perfil por {name}]]></phrase>
+  <phrase title="comments_on_your_profile_or_status" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Comentarios relativos a su perfil o estado]]></phrase>
+  <phrase title="comments_on_your_profile_posts_for_other_members" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Comentarios en su perfil por otros miembros]]></phrase>
+  <phrase title="common_searches" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Búsquedas comunes]]></phrase>
+  <phrase title="compare_versions" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Comparar versiones]]></phrase>
+  <phrase title="compiler_error_may_be_from_another_template_modification" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Error de compilación (Puede ser quizá de otra modificación de plantilla)]]></phrase>
+  <phrase title="complete_import" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Importación completa]]></phrase>
+  <phrase title="complete_upgrade" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Actualización completa]]></phrase>
   <phrase title="completion_date" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Completion Date]]></phrase>
   <phrase title="compressed" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Compressed]]></phrase>
   <phrase title="configure_custom_avatar_import" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Configure Custom Avatar Import]]></phrase>
